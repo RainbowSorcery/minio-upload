@@ -1,0 +1,9 @@
+file:
+    minio:
+        endpoint: http://192.168.0.225:9000
+        access-key: admin
+        secret-key: admin123456
+
+logging:
+    file:
+        path: d:/log # 日志文件目录

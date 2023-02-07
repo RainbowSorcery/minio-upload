@@ -1,0 +1,6 @@
+2022-10-12 11:06:55.989 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 15 class path changes (0 additions, 15 deletions, 0 modifications)
+2022-10-12 11:06:56.260 [Thread-10] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-7979"]
+2022-10-12 11:06:56.262 [Thread-10] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-10-12 11:06:56.279 [Thread-10] INFO  o.a.c.c.C.[Tomcat].[localhost].[/file-service] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-10-12 11:06:56.297 [Thread-10] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-7979"]
+2022-10-12 11:06:56.322 [Thread-10] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-7979"]
